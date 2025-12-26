@@ -31,3 +31,4 @@ def show_image_and_validation(blob_url, credit_card_info):
 
 if __name__ == "__main__":
     configure_interface()
+
